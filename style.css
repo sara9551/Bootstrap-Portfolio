@@ -40,7 +40,7 @@ hr {
 .navbar.navbar-light.bg-light {
     width: 100%;
     background-color: #666666 !important;
-    padding: 30px 0px;
+    padding: 0px;
     border-top: 10px solid #4aaaa5;
 }
 
@@ -92,20 +92,4 @@ img {
     width: 50%;
     position: relative !important;
     margin: 0 auto !important;
-  }
-
-  a {
-    max-width: 200px;
-    height: auto;
-    width: 200px;
-    text-align: center !important;
-    align-items: center;
-  }
-
-  img {
-    margin-right: 15px; 
-    margin-bottom: 15px;
-    margin-top: 15px;
-    text-align: center !important;
-    float: center !important;
   }
