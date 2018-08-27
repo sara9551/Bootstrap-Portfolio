@@ -94,3 +94,18 @@ img {
     margin: 0 auto !important;
   }
 
+  a {
+    max-width: 200px;
+    height: auto;
+    width: 200px;
+    text-align: center !important;
+    align-items: center;
+  }
+
+  img {
+    margin-right: 15px; 
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center !important;
+    float: center !important;
+  }
